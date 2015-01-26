@@ -1,2 +1,6 @@
 # pong-multiclient-game
-Pong Multiclient game. Server is created with C++ and Pong is created with Pygame. 
+Pong Multiclient game. Server is created with C++ and Pong is created with Pygame. Server was created with semaphore, blockable files written by Dr. Ken McIsaac. The rest of the Pong clients and the server was written by myself and Justin. 
+
+To run it...
+(1) Run the makefiles to start the server...
+(2) Use something like PyDev, or Eclipse with Python plugin to run pong clients (pongclient.py, pongclient2.py) to start and enjoy.
